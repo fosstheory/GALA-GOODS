@@ -1,4 +1,4 @@
-# sixam_mart
+# GALA GOODS
 
 A new Flutter application.
 
